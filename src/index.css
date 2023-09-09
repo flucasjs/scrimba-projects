@@ -4,7 +4,17 @@
 
 @font-face {
   font-family: "CursedTimer";
-  src: url("/CursedTimerUlil-Aznm.ttf");
+  src: url("/CursedTimer.ttf");
+}
+
+@font-face {
+  font-family: "Inter";
+  src: url("/Inter.ttf");
+}
+
+@font-face {
+  font-family: "Karla";
+  src: url("/Karla.ttf");
 }
 
 :root {

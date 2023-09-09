@@ -46,7 +46,9 @@ export default {
         },
       },
       fontFamily: {
-        timer: ["CursedTimer", "sans-serif"]
+        timer: ["CursedTimer", "sans-serif"],
+        inter: ["Inter", "sans-serif"],
+        karla: ["Karla", "sans-serif"],
       },
       fontSize: {
         sm: ["clamp(1.00rem, calc(0.92rem + 0.39vw), 1.20rem)", "1.4"],
